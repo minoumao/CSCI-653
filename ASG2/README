@@ -1,0 +1,12 @@
+This folder (csci653-as02) contains instruction and codes needed to complete assignment 2
+for CSCI 653.
+
+as02.pdf: Assignment itself.
+
+fmm2d.c|h: Program and head files for fast multipole method (FMM) and direct computations
+of electrostatic interaction among charged points in 2-dimensional space.
+
+makefile: Makefile to compile the program.
+
+ASG2: Added Modified folder. This contains a modified version of the FMM2d, including a modified makefile to complile each individually.
+Also contains the PDF for the assignment.
